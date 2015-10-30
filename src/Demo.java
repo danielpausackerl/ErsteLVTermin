@@ -7,8 +7,8 @@ public class Demo {
 		boolean treeFront = true;
 		int numberLeaves = 0;
 		char meinZeichen = 'X';
-		int a = 10;
-		int b = 4;
+		int a = 9;
+		int b = 5;
 
 		// System.out.println("Ist ein Baum voraus? " + treeFront);
 
@@ -18,6 +18,10 @@ public class Demo {
 		// System.out.println(meinZeichen);
 		numberLeaves = numberLeaves + 1;
 		System.out.println(a + " + " + b + " = " + (a + b));
+		System.out.println(a + " - " + b + " = " + (a - b));
+		System.out.println(a + " * " + b + " = " + (a * b));
+		System.out.println(a + " / " + b + " = " + (a / b));
+		System.out.println(a + " % " + b + " = " + (a % b));
 
 	}
 
