@@ -4,9 +4,9 @@ public class Demo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		boolean treeFront = true;
+		/* boolean treeFront = true;
 		int numberLeaves = 0;
-		char meinZeichen = 'X';
+		char meinZeichen = 'X'; */
 		int a = 9;
 		int b = 5;
 
